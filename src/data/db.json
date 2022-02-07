@@ -1,0 +1,145 @@
+{
+    "sticks" : [
+        {
+            "name": "Sr AS2 Super Tacks",
+            "manu": "CCM",
+            "desc": "Pro stock AS2 stick",
+            "url": "http://localhost:3000/images/stick1.PNG",
+            "alt":"AS2 hockey stick",
+            "spec": {
+                "model":"AS2",
+                "shot": "left",
+                "curve":"P88",
+                "flex":"75",
+                "kickPoint": "low",
+                "level": "Senior",
+                "cost": 300
+            },
+            "stock": 1,
+            "id": 1
+        },
+        {
+            "name": "Int AS2 Super Tacks",
+            "manu": "CCM",
+            "desc": "Pro stock AS2 stick",
+            "url": "http://localhost:3000/images/stick1.PNG",
+            "alt":"AS2 hockey stick",
+            "spec": {
+                "model":"AS2",
+                "shot": "left",
+                "curve":"P92",
+                "flex":"65",
+                "kickPoint": "mid",
+                "level": "Intermediate",
+                "cost": 200
+            },
+            "stock": 1,
+            "id": 2
+        },
+        {
+            "name": "Sr Bauer 180s",
+            "manu": "Bauer",
+            "desc": "Bauer 180s lower kick",
+            "url": "http://localhost:3000/images/stick2.PNG",
+            "alt":"Bauer 180s hockey stick",
+            "spec": {
+                "model":"180s",
+                "shot": "left",
+                "curve":"P92",
+                "flex":"85",
+                "kickPoint": "high",
+                "level": "Senior",
+                "cost": 200
+            },
+            "stock": 2,
+            "id": 3
+        },
+        {
+            "name": "Sr AS2 Super Tacks",
+            "manu": "CCM",
+            "desc": "Pro stock AS2 stick",
+            "url": "http://localhost:3000/images/stick1.PNG",
+            "alt":"AS2 hockey stick",
+            "spec": {
+                "model":"AS2",
+                "shot": "left",
+                "curve":"P92",
+                "flex":"75",
+                "kickPoint": "high",
+                "level": "Senior",
+                "cost": 300
+            },
+            "stock": 1,
+            "id": 4
+        },
+        {
+            "name": "Int AS2 Super Tacks",
+            "manu": "CCM",
+            "desc": "Pro stock AS2 stick",
+            "url": "http://localhost:3000/images/stick1.PNG",
+            "alt":"AS2 hockey stick",
+            "spec": {
+                "model":"AS2",
+                "shot": "left",
+                "curve":"P88",
+                "flex":"65",
+                "kickPoint": "high",
+                "level": "Intermediate",
+                "cost": 200
+            },
+            "stock": 1,
+            "id": 5
+        },
+        {
+            "name": "Sr Bauer 180s",
+            "manu": "Bauer",
+            "desc": "Bauer 180s lower kick",
+            "url": "http://localhost:3000/images/stick2.PNG",
+            "alt":"Bauer 180s hockey stick",
+            "spec": {
+                "model":"180s",
+                "shot": "left",
+                "curve":"P92",
+                "flex":"85",
+                "kickPoint": "amid",
+                "level": "Senior",
+                "cost": 200
+            },
+            "stock": 2,
+            "id": 6
+        },
+        {
+            "name": "Sr Warrior Alpha DX Pro Grip",
+            "manu": "Warrior",
+            "desc": "Warrior Alpha DX Pro Grip",
+            "url": "http://localhost:3000/images/warrior1.PNG",
+            "alt":"Warrior Alpha DX Pro Grip hockey stick",
+            "spec": {
+                "model":"Alpha DX",
+                "shot": "left",
+                "curve":"P28",
+                "flex":"95",
+                "kickPoint": "low",
+                "level": "Senior",
+                "cost": 180
+            },
+            "stock": 2,
+            "id": 7
+        }
+    ],
+    "template": {
+        "sticks":"Hockey Sticks",
+        "img":"Picture",
+        "name": "Name",
+        "manu": "Manufacturuer",
+        "desc": "Description",
+        "model": "Model",
+        "hand": "Hand",
+        "curve":" Curve",
+        "flex": "Flex",
+        "kickPoint": "Kick Point",
+        "level": "Catagory",
+        "cost": "Price",
+        "id": 1
+    }
+}
